@@ -1,0 +1,6 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.csprojResolveAssemblyReference.cache
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.pdb
